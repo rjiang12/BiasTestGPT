@@ -1,0 +1,16 @@
+torch
+transformers
+openai
+openpyxl
+backoff
+pandas
+numpy
+tqdm
+huggingface_hub
+sacremoses
+sentencepiece
+accelerate
+browser_cookie3
+selenium
+nltk
+einops
