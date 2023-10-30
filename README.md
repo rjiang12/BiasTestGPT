@@ -12,3 +12,7 @@ duplicated_from: RKocielnik/bias-test-gpt-pairs
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
+Find working spaces here:
+https://huggingface.co/spaces/AnimaLab/bias-test-gpt-pairs
+https://huggingface.co/spaces/anon4757/BiasTestGPT 
